@@ -25,7 +25,11 @@ The following circuit diagram illustrates the connections between the Arduino Un
 
 The system successfully detects dry soil and automatically waters the plant until the required moisture level is reached.
 
-![Project Output](output.jpg)
+![Project Output](https://github.com/mraj07804-cpu/Automatic-Plant-Watering-System/blob/3478c0f9a57f71594d12803f3abe61f26c578244/project-output.jpeg)
+
+## Result
+
+The project was successfully tested and demonstrated automatic watering based on soil moisture levels. The system reduced manual intervention and ensured efficient water usage for plant care.
 
 ## Author
 Om Maurya
