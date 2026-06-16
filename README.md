@@ -20,8 +20,12 @@ The soil moisture sensor continuously monitors soil moisture. When the soil beco
 The following circuit diagram illustrates the connections between the Arduino Uno, Soil Moisture Sensor, Relay Module, Water Pump, LED, and Buzzer used in the Automatic Plant Watering System.
 
 ![Circuit Diagram](https://github.com/mraj07804-cpu/Automatic-Plant-Watering-System/blob/aadcd205266769967ec750ae67010b498f312e8c/circuit-diagram.png.jpeg)
+
 ## Output
-(Add project photos here)
+
+The system successfully detects dry soil and automatically waters the plant until the required moisture level is reached.
+
+![Project Output](output.jpg)
 
 ## Author
 Om Maurya
