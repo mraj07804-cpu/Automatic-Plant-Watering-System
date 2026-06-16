@@ -16,8 +16,10 @@ Automatically water plants when soil moisture becomes low.
 The soil moisture sensor continuously monitors soil moisture. When the soil becomes dry, the Arduino activates the water pump and alerts through LED/Buzzer. Once the soil reaches the required moisture level, the pump turns off automatically.
 
 ## Circuit Diagram
-(Add image here)
 
+The following circuit diagram illustrates the connections between the Arduino Uno, Soil Moisture Sensor, Relay Module, Water Pump, LED, and Buzzer used in the Automatic Plant Watering System.
+
+![Circuit Diagram](circuit-diagram.jpg)
 ## Output
 (Add project photos here)
 
