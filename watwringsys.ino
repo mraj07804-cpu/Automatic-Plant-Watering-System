@@ -1,7 +1,5 @@
 #include <Arduino.h>
 
-// Arduino sketch entrypoint for the Watering System
-
 const int sensorPin = A0; // Soil moisture sensor analog pin
 const int ledPin = 9;     // LED pin
 const int buzzerPin = 8;  // Buzzer pin
